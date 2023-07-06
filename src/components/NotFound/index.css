@@ -1,0 +1,10 @@
+.heading {
+  font-family: 'Roboto';
+  font-size: 24px;
+  align-items: center;
+}
+.nf-container {
+  display: flex;
+  justify-content: center;
+  height: 70vh;
+}
